@@ -3,7 +3,7 @@
 .settings/
 nb-configuration.xml
 faces-config.NavData
-.Ds_tore
+.DS_Store
 src/.Ds_Store
 src/main/.Ds_Store
 src/main/java/.Ds_Store
