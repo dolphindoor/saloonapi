@@ -1,0 +1,12 @@
+.classpath
+.project
+.settings/
+nb-configuration.xml
+faces-config.NavData
+.Ds_tore
+src/.Ds_Store
+src/main/.Ds_Store
+src/main/java/.Ds_Store
+src/main/java/com/.Ds_Store
+
+target/ d
